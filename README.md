@@ -1,4 +1,4 @@
-<!-- Please update value in the {}  -->
+<!-- Please update value in the {bla bla}  -->
 
 <h1 align="center">{Your project name}</h1>
 
